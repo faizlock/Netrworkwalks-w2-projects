@@ -1,13 +1,11 @@
-Penetration Testing Report 
-        
 Footprinting & Network Scanning Phases
 
 W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS
 
 Field	Detail
-Pentester Name (Cybersecurity Professional)	Faizan Afridi
-Program/Batch	B082-Networkwalks
-Date	17 August 2026
+Faizan Afridi
+Program/Batch	B084-Networkwalks
+Date	13 November 2026
 Modules Completed	W2-PM1 (Multiple Kali Tools)W2-PM5 (Zenmap Scanning)
 Client/Target	1. Networkwalks (secured written permission)2. My own local LAN Network
 Permission secured from client?	Yes
@@ -26,7 +24,7 @@ Tools Used
 * Nmap
 * Zenmap
 * WHOIS
-* DNS tools
+* DNS Tools
 
 Activities
 
@@ -67,25 +65,18 @@ Host Discovery	Identified active hosts on the network	Informational
 
 ⸻
 
-Evidence
-
-Zenmap Scan
-
-Add your screenshot here:
-
-![Zenmap Scan](screenshots/zenmap-scan.png)
-
-Nmap Results
-
-Add your terminal screenshot here:
-
-![Nmap Results](screenshots/nmap-results.png)
-
-⸻
-
 Conclusion
 
-This project provided practical experience with footprinting, network reconnaissance, host discovery, port scanning, service enumeration, and basic attack-surface identification using Kali Linux and Nmap/Zenmap.
+This project provided practical experience with:
+
+* Footprinting
+* Network reconnaissance
+* Host discovery
+* Port scanning
+* Service enumeration
+* Basic attack-surface identification
+
+The activities were performed using Kali Linux, Nmap, and Zenmap against authorized targets.
 
 Tools: Kali Linux | Nmap | Zenmap
 Focus: Footprinting & Network Scanning
